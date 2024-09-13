@@ -15,4 +15,4 @@ def rest_time():
 
 def ad():
     print('please watch an ad')
-    
+    print('this ad is only for the premium users')
