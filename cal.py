@@ -13,6 +13,6 @@ def divide(a, b):
 def rest_time():
     print('매 시간 50분은 쉬는 시간입니다.')
 
-def ad():
+def ad_new():
     print('please watch an ad')
-    print('this ad is only for the premium users')
+    print('this ad is shown to both free/premium users')
