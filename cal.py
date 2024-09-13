@@ -12,3 +12,7 @@ def divide(a, b):
 
 def rest_time():
     print('매 시간 50분은 쉬는 시간입니다.')
+
+def ad():
+    print('please watch an ad')
+    
